@@ -1,0 +1,3 @@
+rep "project_game@aldengawer@cloud"
+  path "/"
+    smartbranch "/main"
